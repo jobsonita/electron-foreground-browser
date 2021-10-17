@@ -8,7 +8,7 @@ function createWindow() {
   win = new BrowserWindow({
     width: config.width,
     height: config.height,
-    titleBarStyle: 'hidden',
+    titleBarStyle: 'default',
     alwaysOnTop: true,
     webPreferences: {
       nodeIntegration: true,
