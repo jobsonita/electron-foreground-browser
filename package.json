@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "dotenv": "^8.2.0",
-    "electron": "^9.0.2",
+    "electron": "^11.5.0",
     "eslint": "^8.0.1"
   },
   "devDependencies": {
